@@ -1,0 +1,17 @@
+{
+  "Q-Learning": {
+    "avg_reward": -193.34,
+    "success_rate": 0.0,
+    "training_time": 1.0956921656926473
+  },
+  "DQN": {
+    "avg_reward": -116.09,
+    "success_rate": 0.0,
+    "training_time": 10.362795035044352
+  },
+  "REINFORCE": {
+    "avg_reward": -200.0,
+    "success_rate": 0.0,
+    "training_time": 3.133355236053467
+  }
+}
